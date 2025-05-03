@@ -19,8 +19,8 @@ This is a simple implementation of a Retrieval-Augmented Generation (RAG) system
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/RAG-first.git
-   cd RAG-first
+   git clone https://github.com/yourusername/RAG.git
+   cd RAG
    ```
 
 2. Install dependencies:
