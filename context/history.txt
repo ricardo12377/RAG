@@ -1,0 +1,3 @@
+this is a simples example using RAG to context IA agents. github.com/ricardo12377
+
+this repo will be used and improve to new features in future.
